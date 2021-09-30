@@ -14,6 +14,6 @@
   "author": "NJA",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.6.0"
+    "gulp": "^4.0.2"
   }
 }
